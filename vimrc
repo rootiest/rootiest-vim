@@ -1,0 +1,1 @@
+/home/rootiest/projects/rootiest.vim/.vimrc
