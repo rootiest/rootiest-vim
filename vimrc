@@ -227,6 +227,9 @@ Plug 'wakatime/vim-wakatime'
 " Startup Time
 Plug 'dstein64/vim-startuptime'
 
+" Vim-Startify
+Plug 'mhinz/vim-startify'
+
 " NerdTree
 Plug 'preservim/nerdtree'
 
